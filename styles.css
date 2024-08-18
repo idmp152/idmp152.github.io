@@ -16,7 +16,10 @@ body{
     width: 200px;
 }
 
-a {color: #006699;}
+h1, h2, h3 { font-family: Arial, Helvetica, sans-serif; }
+
+p {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+a {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #006699;}
 a:visited { text-decoration: none; color: #006699; }
 a:hover { text-decoration: none; color:#006699; }
 a:focus { text-decoration: none; color:#006699; }
