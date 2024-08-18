@@ -1,0 +1,23 @@
+body{
+    color: #444;
+    background-color: #EEE;
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6em;
+    font-size: 18px;
+    padding: 0;
+}
+
+.bookcover {
+    list-style-type: none;
+}
+
+.bookcover img {
+    width: 200px;
+}
+
+a {color: #006699;}
+a:visited { text-decoration: none; color: #006699; }
+a:hover { text-decoration: none; color:#006699; }
+a:focus { text-decoration: none; color:#006699; }
+a:hover, a:active { text-decoration: none; color:#006699 }
